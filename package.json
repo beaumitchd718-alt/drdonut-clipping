@@ -1,0 +1,14 @@
+{
+  "name": "@workspace/hello-world",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "archiver": "^7.0.1",
+    "express": "^5"
+  }
+}
